@@ -1,4 +1,4 @@
-# MSA Frontend Example using React SSR, Mobx and GraphQL
+# MSA Frontend Example with Rest API and GraphQL
 
 ## Service Description
 
