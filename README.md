@@ -6,9 +6,11 @@
 
 - It's built with Mobx and Apollo Client based on Next.js
 
-- It shows how to handle both Rest API and GraphQL by Mobx to inhance you integrate with Legacy API and GraphQL Client
+- It shows how to handle both Rest API and GraphQL by Mobx to inhance you integrate with Legacy API and GraphQL
 
-- Some photo and text are included in this project as samples
+- Some photo and text are included in this project as samples and those things are property of Young Shin VSC co., Ltd
+
+- So all meterials in /static/\* will never allowed to be used for any purpose on the internet
 
 ## Scaffold
 
@@ -33,8 +35,11 @@
 ## development
 $ yarn dev
 
+## build
+$ yarn build
+
 ## production
-$ yarn build && yarn prod
+$ yarn start
 
 ## dockerizing
 $ docker build -t {Image Name} .
@@ -57,6 +62,11 @@ config/*
 ## Connection
 
 - You could see message like this when service run and connect with your local environment.
+  <img width="1915 src="https://user-images.githubusercontent.com/21056590/54066605-1c4ea100-4276-11e9-9670-21c46cf410ae.png" />
+
+- If you see this display, that means it works fine.
+
+<img width="1915 src="https://user-images.githubusercontent.com/21056590/54066608-22dd1880-4276-11e9-8912-63b82e8e8e63.png" />
 
 ## LISENCE
 
