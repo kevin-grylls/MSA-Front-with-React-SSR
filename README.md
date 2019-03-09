@@ -10,7 +10,7 @@
 
 - Some photo and text are included in this project as samples and those things are property of Young Shin VSC co., Ltd
 
-- So all meterials in static/\* will never allowed to be used for any purpose on the internet
+- So all meterials in static/\* never allowed to be used for any purpose on the internet except this example
 
 ## Scaffold
 
