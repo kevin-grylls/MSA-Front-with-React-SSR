@@ -3,11 +3,11 @@ import "semantic-ui-css/semantic.min.css";
 import Layout from "../components/Layout";
 import { Container, Image, Divider, Card } from "semantic-ui-react";
 import { Query } from "react-apollo";
-import { QUERY_LIST } from "../api";
+import { QUERY_SAMPLE } from "../api";
 import MOCK from "../config/mock.json";
 
 const Product = () => (
-  <Query query={QUERY_LIST}>
+  <Query query={QUERY_SAMPLE}>
     {({ loading, error, data }) => {
       if (error) {
         /* Error Page */

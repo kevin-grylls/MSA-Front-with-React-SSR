@@ -4,7 +4,6 @@ import Link from "next/link";
 import Head from "next/head";
 import Router from "next/router";
 
-import CONFIG from "../../config/config.json";
 import MOCK from "../../config/mock.json";
 import ENV from "../../common/store";
 
@@ -69,7 +68,7 @@ class Header extends Component {
             <Container>
               <Menu.Item>
                 <Link href={"/index"}>
-                  <Image size="tiny" src={CONFIG.IMAGE.CI} />
+                  <Image size="tiny" src={"/static/assets/ci/color.png"} />
                 </Link>
               </Menu.Item>
               {menuItem}

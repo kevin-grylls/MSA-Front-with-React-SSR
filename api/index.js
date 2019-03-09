@@ -1,20 +1,13 @@
 import gql from "graphql-tag";
 
-export const QUERY_LIST = gql`
+export const QUERY_SAMPLE = gql`
   {
-    list {
-      title
-      content
-      category
-      created_at
-      views
-      author {
-        name
-        id
-      }
-      reply {
-        comment
-      }
+    sample {
+      id
+      image
+      header
+      meta
+      description
     }
   }
 `;
