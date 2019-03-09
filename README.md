@@ -51,7 +51,7 @@ $ docker build -t {Image Name} .
 
 - Or you can insert configurations as your enviroment such as development, staging and production.
 
-- Legacy services or BaaS are dependencies of this service.
+- Restful API, GraphQL and BaaS are dependencies of this service.
 
 ```js
 ## Place where you insert configurations parameters
