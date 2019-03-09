@@ -62,11 +62,12 @@ config/*
 ## Connection
 
 - You could see message like this when service run and connect with your local environment.
-  <img width="1915 src="https://user-images.githubusercontent.com/21056590/54066605-1c4ea100-4276-11e9-9670-21c46cf410ae.png" />
+
+  <img style="-webkit-user-select: none;cursor: zoom-in;" src="https://user-images.githubusercontent.com/21056590/54066605-1c4ea100-4276-11e9-9670-21c46cf410ae.png" width="788" height="289">
 
 - If you see this display, that means it works fine.
 
-<img width="1915 src="https://user-images.githubusercontent.com/21056590/54066608-22dd1880-4276-11e9-8912-63b82e8e8e63.png" />
+<img style="-webkit-user-select: none;cursor: zoom-in;" src="https://user-images.githubusercontent.com/21056590/54066608-22dd1880-4276-11e9-8912-63b82e8e8e63.png" width="788" height="805">
 
 ## LISENCE
 
