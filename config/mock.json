@@ -1,0 +1,41 @@
+{
+  "HEADER": {
+    "navbar": [
+      {
+        "path": "company",
+        "value": "회사소개"
+      },
+      {
+        "path": "product",
+        "value": "제품안내"
+      },
+      {
+        "path": "cs",
+        "value": "고객센터"
+      }
+    ]
+  },
+  "PRODUCT": [
+    {
+      "id": 1,
+      "image": "/static/assets/images/YAR.png",
+      "header": "YAR",
+      "meta": "Hot Roller",
+      "description": "YAR 롤러의 특징은 실리콘 고무의 특성과 불소 고무의 장점만을 조합하여 저렴하고 탁월한 효과를 나타내는 특수 고무입니다."
+    },
+    {
+      "id": 2,
+      "image": "/static/assets/images/YSR.png",
+      "header": "YSR",
+      "meta": "Hot Roller",
+      "description": "YSR 롤러의 특징은 PDP,PCB 공정에 쓰이는 내열 실리콘 재질로써탁월한 전사 효과를 나타내며 다양한 다국적 기계의 롤러를 국산화 하였습니다."
+    },
+    {
+      "id": 3,
+      "image": "/static/assets/images/YCR.png",
+      "header": "YCR",
+      "meta": "Clean Roller",
+      "description": "제거용 YCR롤러는 일정한 접착력 및 오랜 유지성으로 어떠한 작업 조건에서도 완벽하게 대상물의 미세 먼지를 제거 합니다."
+    }
+  ]
+}

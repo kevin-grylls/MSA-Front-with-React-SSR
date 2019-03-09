@@ -1,0 +1,7 @@
+{
+  "IMAGE": {
+    "CI": "/static/assets/ci/color.png",
+    "CI_MONO": "/static/assets/ci/mono.png",
+    "MAIN": "/static/assets/images/main.png"
+  }
+}
