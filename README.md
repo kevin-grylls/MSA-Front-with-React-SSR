@@ -6,11 +6,11 @@
 
 - It's built with Mobx and Apollo Client based on Next.js
 
-- It shows how to handle both Rest API and GraphQL by Mobx to inhance you integrate with Legacy API and GraphQL
+- It shows how to handle both Rest API and GraphQL by Mobx to help you integrate with Legacy API and GraphQL
 
 - Some photo and text are included in this project as samples and those things are property of Young Shin VSC co., Ltd
 
-- So all meterials in /static/\* will never allowed to be used for any purpose on the internet
+- So all meterials in static/\* will never allowed to be used for any purpose on the internet
 
 ## Scaffold
 
@@ -47,11 +47,11 @@ $ docker build -t {Image Name} .
 
 ## Configuration
 
-- Make sure backend services is built and running on any connectable network so that service is operating.
+- Make sure prepare setting backend services up and running on any connectable network so that service is operating.
 
 - Or you can insert configurations as your enviroment such as development, staging and production.
 
-- Next.js, Mobx and Apollo Client are dependencies of this service.
+- Legacy services or BaaS are dependencies of this service.
 
 ```js
 ## Place where you insert configurations parameters
