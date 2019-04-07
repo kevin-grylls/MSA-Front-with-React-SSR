@@ -1,4 +1,4 @@
-# MSA Frontend Example with Rest API and GraphQL
+# Frontend Example with Rest API and GraphQL
 
 ## Service Description
 
