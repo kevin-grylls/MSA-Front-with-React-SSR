@@ -57,7 +57,6 @@ $ docker build -t {Image Name} .
 ## Place where you insert configurations parameters
 common/*
 config/*
-
 ```
 
 ## Connection
